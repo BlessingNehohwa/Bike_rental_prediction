@@ -27,7 +27,7 @@ Contents :-
        * Linear Regression Prediction
        * Decision Tree Regressor Prediction
        * Random Forest Prediction
-   # 10. Model Evaluation Metrics
+   # 10. Models Evaluation Metrics
        * R-squared score
        * Root mean square error
        * Mean absolute error
