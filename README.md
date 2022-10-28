@@ -30,5 +30,4 @@ Contents :-
    # 10. Models Evaluation Metrics
        * R-squared score
        * Root mean square error
-       * Mean absolute error
    # 11.Choosing best model for predicting bike rental count
