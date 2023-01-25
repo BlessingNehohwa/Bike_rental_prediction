@@ -8,9 +8,9 @@ Contents :-
        * Typecasting the attributes
        * Missing value analysis
    # 2. Attributes distributions and trends
-       * Monthly distribution of counts
-       * Yearly distribution of counts
-       * Outliers analysis
+       * Monthly distribution of counts.
+       * Yearly distribution of counts.
+       * Outliers analysis.
    # 3. Normality test
    # 4. Correlation matrix 
    # 5. Split the dataset into train and test dataset
