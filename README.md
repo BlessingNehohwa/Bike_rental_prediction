@@ -17,8 +17,8 @@ Contents :-
    # 6. Encoding the categorical features
    # 7. Modelling the training dataset
        * Linear Regression Model
-       * Decision Tree Regressor Model
-       * Random Forest Model
+       * Decision Tree Regressor Model.
+       * Random Forest Model.
    # 8. Cross Validation Prediction
        * Linear Regression CV Prediction
        * Decision Tree Regressor CV Prediction
