@@ -3,8 +3,8 @@ Created Bike Renting Prediction analysis for the Predication of bike rental coun
 Contents :-
 
    # 1. Exploratory Data Analysis
-       * Loading the dataset and libraries
-       * Data cleaning
+       * Loading the dataset and libraries.
+       * Data cleaning.
        * Typecasting the attributes
        * Missing value analysis
    # 2. Attributes distributions and trends
