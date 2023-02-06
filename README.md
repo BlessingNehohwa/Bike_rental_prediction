@@ -1,6 +1,12 @@
 # Bike Rental Prediction :
 
+CLICK HERE: **[Bike Rental Prediction](https://github.com/BlessingNehohwa/Customer_Churn_Prediction/blob/main/Bank%20Customer%20Churn%20prediction%20.ipynb
+).**
+
+
+
 ## <b> Problem Statement </b>
+
 
 The objective of this Case is to Predication of bike rental count on daily based on the environmental and seasonal settings.
 
