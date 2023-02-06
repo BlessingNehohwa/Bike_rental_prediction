@@ -1,6 +1,6 @@
 # Bike Rental Prediction :
 
-CLICK HERE: 
+Click here: 
 <b> [Bike Rental Prediction](https://github.com/BlessingNehohwa/Bike_rental_prediction/blob/main/Bike%20Rental%20Prediction.ipynb
 ).</b>
 
