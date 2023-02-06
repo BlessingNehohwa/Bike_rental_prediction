@@ -1,7 +1,8 @@
 # Bike Rental Prediction :
 
-CLICK HERE: **[Bike Rental Prediction](https://github.com/BlessingNehohwa/Customer_Churn_Prediction/blob/main/Bank%20Customer%20Churn%20prediction%20.ipynb
-).**
+CLICK HERE: 
+<b> [Bike Rental Prediction](https://github.com/BlessingNehohwa/Bike_rental_prediction/blob/main/Bike%20Rental%20Prediction.ipynb
+).</b>
 
 
 
