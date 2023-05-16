@@ -20,7 +20,7 @@ The objective of this Case is to Predication of bike rental count on daily based
     2. Attributes distributions and trends
        * Monthly distribution of counts
        * Yearly distribution of counts
-       * Outliers analysis
+       * Outliers analysis 
        
     3. Normality test
     4. Correlation matrix 
