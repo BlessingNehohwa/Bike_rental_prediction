@@ -36,17 +36,17 @@ The objective of this Case is to Predication of bike rental count on daily based
        * Decision Tree Regressor CV Prediction 
        * Random Forest CV Prediction 
        
-    9. Model performance on test dataset
+  9. Model performance on test dataset 
        * Linear Regression Prediction
        * Decision Tree Regressor Prediction
-       * Random Forest Prediction
+       * Random Forest Prediction 
        
-    10. Model Evaluation Metrics
+  10. Model Evaluation Metrics
        * R-squared score
        * Root mean square error
-       * Mean absolute error
+       * Mean absolute error 
        
-    11.Choosing best model for predicting bike rental count
+  11.Choosing best model for predicting bike rental count 
 
 
 
