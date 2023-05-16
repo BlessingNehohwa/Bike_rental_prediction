@@ -13,7 +13,7 @@ The objective of this Case is to Predication of bike rental count on daily based
 
 1. Exploratory Data Analysis
        * Loading the dataset and libraries
-       * Data cleaning
+       * Data cleaning.
        * Typecasting the attributes
        * Missing value analysis
        
