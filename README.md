@@ -22,14 +22,14 @@ The objective of this Case is to Predication of bike rental count on daily based
        * Yearly distribution of counts
        * Outliers analysis 
        
-    3. Normality test
-    4. Correlation matrix 
-    5. Split the dataset into train and test dataset
-    6. Encoding the categorical features
-    7. Modelling the training dataset
+   3. Normality test  
+   4. Correlation matrix  
+   5. Split the dataset into train and test dataset 
+   6. Encoding the categorical features 
+   7. Modelling the training dataset 
        * Linear Regression Model
        * Decision Tree Regressor Model
-       * Random Forest Model
+       * Random Forest Model 
        
     8. Cross Validation Prediction
        * Linear Regression CV Prediction
