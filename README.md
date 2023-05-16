@@ -31,10 +31,10 @@ The objective of this Case is to Predication of bike rental count on daily based
        * Decision Tree Regressor Model
        * Random Forest Model 
        
-    8. Cross Validation Prediction
-       * Linear Regression CV Prediction
-       * Decision Tree Regressor CV Prediction
-       * Random Forest CV Prediction
+  8. Cross Validation Prediction 
+       * Linear Regression CV Prediction 
+       * Decision Tree Regressor CV Prediction 
+       * Random Forest CV Prediction 
        
     9. Model performance on test dataset
        * Linear Regression Prediction
