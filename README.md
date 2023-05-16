@@ -17,7 +17,7 @@ The objective of this Case is to Predication of bike rental count on daily based
        * Typecasting the attributes
        * Missing value analysis
        
-    2. Attributes distributions and trends
+   2.  Attributes distributions and trends
        * Monthly distribution of counts
        * Yearly distribution of counts
        * Outliers analysis 
