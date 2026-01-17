@@ -47,4 +47,3 @@ The objective of this Case is to Predication of bike rental count on daily based
   11.Choosing best model for predicting bike rental count 
 
 
-
